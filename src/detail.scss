@@ -1,0 +1,17 @@
+@import './reset.scss';
+
+.headText{
+    font-size: 35px;
+    padding: 15px;
+}
+.alert{
+    background: #eeeeee;
+    padding:20px;
+}
+.wow-enter {
+    opacity:0 ;
+}
+.wow-enter-active{
+    opacity: 1;
+    transition: all 1000ms;
+}
